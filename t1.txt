@@ -1,2 +1,1 @@
-file being edited making some changes
-testing merge conflict
+file being edited makingesg merge conflict
